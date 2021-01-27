@@ -1,0 +1,2 @@
+public class ArticlesV2 {
+}
